@@ -4,7 +4,7 @@ test:
   password_digest: <%= User.digest('password') %>
 
 katia:
-  name: Katia Savina
+  name: Katia
   email: minus15@bigmir.net
   password_digest: <%= User.digest('password') %>	
   admin: true
