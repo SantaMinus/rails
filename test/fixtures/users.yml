@@ -1,6 +1,6 @@
 test:
-  name: Test
-  email: test@example.com
+  name: Example User
+  email: example@railstutorial.org
   password_digest: <%= User.digest('password') %>
 
 katia:
